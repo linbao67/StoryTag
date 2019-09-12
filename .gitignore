@@ -1,3 +1,8 @@
+#confidential 
+Files/training_data.csv
+Files/training_data.txt
+Files/UserStory.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

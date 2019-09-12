@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}User Story Label Demo{% endblock %}
+{% block content %}
+    <h1>Label The User Story</h1>
+    <form method="post">
+        <div class="form-group">
+            <label for="prompt">Please input your User Story</label>
+            <textarea class="form-control" id="prompt" name="prompt" rows="6">{{ prompt }}</textarea>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Label</button>
+        </div>
+    </form>
+    {% for t in texts %}
+    <h2>Category/Sub-Category {{ loop.index }}</h2>
+    <div class="border" style="white-space: pre-line">{{ t }}</div>
+    {% endfor %}
+    <hr>
+    <a href="https://fasttext.cc">[FastText]</a>
+{% endblock %}

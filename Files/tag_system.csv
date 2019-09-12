@@ -1,0 +1,407 @@
+TagID,Capability,Sub-Capability,Epic
+1,Perform Governance and Compliance,Master Data Maintenance,COA Impact Analysis and Design
+2,Execute Financial Processing,Master Data Governance (DRM),Classic CoA Master Data Workflows
+3,Perform Strategic Planning,Budgeting - Capital Projects,Defining Program Test Strategy
+4,Execute Financial Processing,Master Data Governance (DRM),Classic CoA Master Data Reporting
+5,Technology Enablement,Chart of Accounts,Foundational Account Values and Hierarchies - PI2
+6,,,Integrate Credit memos from Maximo Cloud to Oracle EBS
+7,,,Measurement/Define Project Status
+8,,,Resource Plan
+9,,,Project Timeline
+10,,,Conversion Strategy
+11,,,Instance Strategy
+12,,,Agile/Jira
+13,Technology Enablement,Organizational Readiness,Business Readiness Pillar
+14,,,HR Shell for SPC
+15,,,STARS Integrations & Batch Processes
+16,,,Headcount Management Strategy
+17,Manage Supply Chain,Procure Materials and Services,F - Receive Materials Ordered
+18,,,Legacy Cross-workstream Topics
+19,Manage Supply Chain,Procure Materials and Services,F - Create/Maintain Service Contract
+20,Manage Supply Chain,Procure Materials and Services,F - Maintain Purchase Order
+21,Manage Supply Chain,Procure Materials and Services,F - Create Purchase Requisition
+22,Perform Work Management,Capital Projects,F - Initiate Capital Project Work
+23,Manage Supply Chain,Manage Materials and Services,F - Manage Inventory Levels and Movements
+24,Manage Supply Chain,Manage Materials and Services,F - Perform Physical Count
+25,Manage Supply Chain,Manage Item and Services Catalog,"F - Define Items, Services, and Categories"
+26,Manage Supply Chain,Procure Materials and Services,F - Process and Pay Invoice
+27,Manage Supply Chain,Manage Materials and Services,F - Issue Materials
+28,,,Data Conversion Strategy
+29,Manage Supply Chain,Manage Materials and Services,F - Process Material Returns
+30,Manage Supply Chain,Manage Vendors,GEP - Manage Vendor Strategy
+31,,,Training Alignment
+32,Manage Supply Chain,Procure Materials and Services,Maximo Base Setup
+33,Manage Supply Chain,Procure Materials and Services,F - Create Purchase Order
+34,,,Accounting
+35,,,Testing Strategy
+36,,,Infrastructure Planning
+37,,,SPC - Initiate Corrective Maintenance Work
+38,,,Evaluate Integrations between Maximo and external systems
+39,Company Work Plans,Project Initiation,General Process Design - Project Header Design
+40,Perform Governance and Compliance,Controls Integration,Controls Strategy for Budgeting
+41,Perform Governance and Compliance,Controls Integration,Controls strategy for DRM
+42,Execute Financial Processing,Financial Consolidations,Integrations Design
+43,Execute Financial Processing,Financial Consolidations,Intercompany Eliminations Design
+44,Execute Financial Processing,Financial Consolidations,Process Design (Cons.)
+45,Perform Financial Reporting and Investor Relations,External Reporting - Regulatory,Reporting Design (FERC)
+46,Perform Financial Reporting and Investor Relations,External Reporting - SEC,Cash Flow Statement Design (SEC)
+47,Perform Financial Reporting and Investor Relations,External Reporting - SEC,Income Statement Design (SEC)
+48,Perform Financial Reporting and Investor Relations,External Reporting - SEC,Balance Sheet Design (SEC)
+49,Perform Financial Reporting and Investor Relations,Ad Hoc Reporting,Task Manager Reporting Design
+50,Perform Financial Reporting and Investor Relations,Ad Hoc Reporting,Financial Dashboards Design
+51,Perform Financial Reporting and Investor Relations,Ad Hoc Reporting,Compliance Dashboards Design
+52,Perform Financial Reporting and Investor Relations,Ad Hoc Reporting,Ad-Hoc Reporting and Analysis Design
+53,Execute Financial Processing,Financial Consolidations,Security Design
+54,Execute Financial Processing,Financial Consolidations,Supplemental Data Design
+55,Execute Financial Processing,Financial Consolidations,Historical Requirements
+56,Execute Financial Processing,Financial Consolidations,Hierarchy Design
+57,Execute Financial Processing,Financial Consolidations,Dimensionality Design
+58,Execute Financial Processing,Financial Consolidations,Consolidation and sub-consolidation Design
+59,Execute Financial Processing,Financial Consolidations,Task Manager Design (Cons.)
+60,Execute Financial Processing,Financial Consolidations,Archiving Requirements
+61,Execute Financial Processing,Financial Consolidations,FX Currency / Foreign Currency Design
+62,Execute Financial Processing,Financial Consolidations,"Ownership Management (Minority Interest, Joint Venture) Design"
+63,Execute Financial Processing,Financial Consolidations,Top-Side journals Design
+64,Execute Financial Processing,Period End Close,Task Manager Design (Period End)
+65,,,F - Asset Life Cycle (LC) Management
+66,Perform Governance and Compliance,Controls Integration,CI - Controls strategy for Maximo Inventory
+67,,,Initial Payroll Strategy
+68,,,F - Initiate Corrective Maintenance Work
+69,,,Define Reporting Governance
+70,,,[R2] Implementation strategy for updating worker data in SHIPS
+71,,,Conversion Strategy for SPC
+72,,,Technical Security Strategy
+73,,,Technical Instance Planning
+74,,,Integration Strategy
+75,,,Technical CRM Strategy
+76,,,Define Future Process Flows for Departments
+77,,,Project Governance
+78,,,Communication and Training Strategy
+79,Manage Taxes,Unclaimed Property,Tax Automation Opportunities for Abandoned & Unclaimed Property
+80,,,Tax Automation Opportunities for Property Tax
+81,Manage Taxes,Sales & Use Tax,Tax Automation Opportunities for Sales & Use Tax
+82,Manage Taxes,Income and Deferred Taxes,Tax Automation Opportunities for Income and Deferred Taxes
+83,Manage Taxes,Tax Accounting,Tax Automation Opportunities for Tax Accounting
+84,Manage Taxes,Unclaimed Property,Define Business Needs for Abandoned & Unclaimed Property
+85,Manage Taxes,Sales & Use Tax,Tax Scope Alignment and Dependencies for Sales & Use Tax
+86,,,Meeting Strategy
+87,,,Determine the future state infrastructure for PowerPlan in the AFT retrofit project
+88,,,Integrate Environment and Data Strategy into Test Strategy and Documentation
+89,Company Work Plans,Project Execution & Accounting,General Process Design (Project Execution)
+90,,,General Process Design - Interim State/Parallel System Design
+91,Technology Enablement,Program Testing - Release 1,Confirm Test Roles aligning to Program Structure
+92,Record Accounting Transactions,Integrations - Inbound and Outbound,Design an API for DRM inactive COA values Interface
+93,,,Design an API for Project Close from Oracle ERP to PowerPlan Interface
+94,,,Design an API forOracle Projects to PowerPlan Interface(PP transactions outbound)
+95,Record Accounting Transactions,Integrations - Inbound and Outbound,Design an API for GL Misc Outbound Interface
+96,,,Design an API forPowerPlan to Oracle Projects Interface (PP transactions inbound)
+97,,,Design an API for DRM to Oracle Projects Interface
+98,,,Design an API for Projects / General Interface
+99,,,Design an API for Oracle Project to PowerPlan s Interface
+100,Technology Enablement,Integration foundation and strategy,Overview of Integrations
+101,,,Design an API for Expenditure to Oracle Projects Interface
+102,,,Design an API for Returns Interface
+103,,,Design an API for Receipt Interface
+104,,,Design an API for SHIPS non-labor Interface
+105,,,Design an API forSHIPS to Oracle Projects Interface
+106,,,Design an API for PO Status Interface
+107,,,Design an API for DRM to Oracle ERP COA Interface
+108,,,Design an API for PO Interface
+109,,,Design an API for GL Misc Outbound Interface
+110,,,Design an API for GL Misc Inbound Interface
+111,Perform Governance and Compliance,Intelligent Controls Automation,Design an API for Oracle GL to PowerPlan Outbound Interface
+112,Perform Governance and Compliance,Intelligent Controls Automation,"Design an API for Oracle GL to FCCS, EPBCS Interface"
+113,Perform Governance and Compliance,Intelligent Controls Automation,Design an API for General Design - Miscellaneous Billing
+114,Procure Goods and Services,Accounts Payable & Invoicing,Design an API for General Process Design - AP & Invoicing
+115,Procure Goods and Services,Accounts Payable & Invoicing,Design an API for AP Invoice Conversion
+116,,,Design an API for Oracle Projects to EPBCS Interface
+117,Company Work Plans,Project Initiation,Design an API for Oracle WO Interface
+118,Manage Taxes,Property Tax,Define Business Needs for Property Tax
+119,Manage Taxes,Sales & Use Tax,Define Business Needs for Sales & Use Tax
+120,Manage Taxes,Income and Deferred Taxes,Define Business Needs for Income and Deferred Taxes
+121,Manage Taxes,Tax Accounting,Define Business Needs for Tax Accounting
+122,Manage Taxes,Tax Accounting,Tax Scope Alignment and Dependencies for Tax Accounting
+123,Manage Taxes,Property Tax,Tax Scope Alignment and Dependencies for Property Tax
+124,Manage Taxes,Income and Deferred Taxes,Tax Scope Alignment and Dependencies for Income and Deferred Taxes
+125,Manage Taxes,Unclaimed Property,Tax Scope Alignment and Dependencies for Abandoned & Unclaimed Property
+126,Technology Enablement,Program Testing - Release 1,Confirm Program Testing aligns to SOCO ICC requirements
+127,Company Work Plans,Project Execution & Accounting,Design an API for POET Outbound Interface
+128,,,Design an API for Oracle Projects Inventory Transactions Interface
+129,Company Work Plans,Project Execution & Accounting,Design an API for Maximo to Oracle Projects Inventory Transactions Interface
+130,Technology Enablement,Program Testing - Release 1,Complete Program Test Strategy Document
+131,Perform Governance and Compliance,Controls Integration,Foundational Future State Reporting Inventory for Internal Reporting (Management Reporting)
+132,,,"Alignment of Reporting Solutions including the Purpose, Intent, and Scope."
+133,,,"Alignment of Reporting Team Approach (Scope, Approach, Ownership of Reports etc)"
+134,Technology Enablement,DevOps - Foundational,Define DevOps Strategy & Architecture - Phase 1
+135,Technology Enablement,Program Testing - Release 1,Create test strategy for integrated testing w/ Legacy Apps for R2 (Apr 2020)
+136,Technology Enablement,Program Testing - Release 1,Create specific search filters for Testers and Test Management
+137,Technology Enablement,Program Testing - Release 1,Configure and Validate TestFlo for Manual Test Management
+138,Execute Financial Processing,Period End Close,Period Close Reports
+139,Company Work Plans,Project Closure,Project Suspension System Design
+140,Company Work Plans,Project Closure,Project Cancellation System Design
+141,Company Work Plans,Project Execution & Accounting,Subledger Accounting Design - Property and Lease Accounting
+142,Company Work Plans,Project Execution & Accounting,Subledger Accounting Design - Material Accounting
+143,Execute Financial Processing,Master Data Governance (DRM),DRM-Data Conversion Engine Interface
+144,Execute Financial Processing,Master Data Governance (DRM),SPC Master Data Warehouse Governance
+145,Execute Financial Processing,Master Data Governance (DRM),Master Data FCCS Governance
+146,Execute Financial Processing,Master Data Governance (DRM),SPC Master Data EPBCS Governance
+147,Execute Financial Processing,Master Data Governance (DRM),SPC Master Data Oracle Projects Governance
+148,Execute Financial Processing,Master Data Governance (DRM),SPC Master Data Oracle GL Governance
+149,Perform Strategic Planning,Budgeting - Financials,Definition of Historical Data Conversions (Actuals and Budgets) - Income Statement
+150,Perform Strategic Planning,Budgeting - Capital Projects,Definition of Historical Data Conversions (Actuals and Budgets) - Capital Projects
+151,Perform Strategic Planning,Budgeting - Workforce,Definition of Historical Data Conversions (Actuals and Budgets) - Workforce Planning
+152,Perform Strategic Planning,Forecasting,Definition of Historical Forecast Conversions
+153,Perform Strategic Planning,Forecasting,Process Design - Forecasting
+154,Perform Strategic Planning,Budgeting - Capital Projects,Process Design - Capital Projects
+155,Execute Financial Processing,Period End Close,Process Design (Period End)
+156,Perform Strategic Planning,Budgeting - Financials,Reporting Requirements
+157,Perform Strategic Planning,Budgeting - Financials,Define in Process Reporting Needs - Income Statement
+158,Perform Strategic Planning,Budgeting - Financials,Define in Process Reporting Needs - O&M
+159,Perform Strategic Planning,Budgeting - Capital Projects,Define in Process Reporting Needs - Capital Projects
+160,Perform Strategic Planning,Budgeting - Workforce,Define in Process Reporting Needs - Workforce Planning
+161,Perform Strategic Planning,Budgeting - Capital Projects,Metadata flow design DRM (including Hierarchies) - Capital Projects
+162,Perform Strategic Planning,Budgeting - Workforce,Metadata flow design DRM (including Hierarchies) - Workforce Planning
+163,,,Metadata flow design DRM (including Hierarchies) - Financials
+164,Perform Strategic Planning,Budgeting - Financials,Design of Data Flows within Oracle Planning
+165,Perform Strategic Planning,Budgeting - Financials,Data Sources Design - Oracle GL
+166,Perform Strategic Planning,Budgeting - Capital Projects,Build & Unit Test PRJ Integrations
+167,Perform Strategic Planning,Budgeting - Capital Projects,Data Sources Design - Oracle Projects
+168,Perform Strategic Planning,Budgeting - Workforce,Data Sources Design - SHIPS / HCM
+169,Perform Strategic Planning,Budgeting - Financials,Dimensionality - Financials
+170,Perform Strategic Planning,Budgeting - Workforce,Dimensionality - Workforce Planning
+171,Execute Financial Processing,Period End Close,Period Close System Design
+172,Company Work Plans,Project Closure,Project Closure System Design
+173,Company Work Plans,Project Execution & Accounting,Expenditure Burdening Analysis
+174,Company Work Plans,Project Related Billing,Enterprise Contracts Design
+175,Company Work Plans,Project Execution & Accounting,Project Costing System Design - Manual Project Journal Entries
+176,Company Work Plans,Project Initiation,General Process Design - Project Task Design
+177,Company Work Plans,Project Related Billing,General Process Design (Project Billing)
+178,Company Work Plans,Project Execution & Accounting,Expenditure Interface Design
+179,Company Work Plans,Project Execution & Accounting,General Process Design (Allocations)
+180,Company Work Plans,Project Execution & Accounting,General Process Design (Accounting)
+181,Company Work Plans,Project Initiation,Allocation Type Value Determination
+182,Company Work Plans,Project Initiation,Activity Value Determination
+183,Company Work Plans,Project Initiation,General Process Design - Fixed Asset Project Integration
+184,Company Work Plans,Project Initiation,General Process Design - Work Management Systems
+185,Execute Financial Processing,Period End Close,General Process Design (Period Close)
+186,Company Work Plans,Project Closure,General Process Design (Project Closure)
+187,Company Work Plans,Project Execution & Accounting,Expenditure Conversion Strategy
+188,Company Work Plans,Project Initiation,Project Conversion Strategy
+189,Procure Goods and Services,Accounts Payable & Invoicing,General Process Design - Purchasing
+190,,,SPC - Complete Corrective Maintenance Work
+191,,,Define Option for PeopleSoft CRM
+192,,,HCM Cloud in PI 3
+193,,,Classic - Complete Corrective Maintenance Work
+194,Company Work Plans,Project Initiation,General Process Design - Project Approval Process
+195,,,General Process Design - Master Data
+196,Perform Strategic Planning,Budgeting - Capital Projects,Dimensionality - Projects
+197,Manage Billings,Miscellaneous Billings & Revenue,Receivables Conversion Strategy (Foundational Design)
+198,Procure Goods and Services,Expense Reimbursements,Employee Conversion Strategy
+199,Procure Goods and Services,Accounts Payable & Invoicing,Supplier Conversion Strategy
+200,Company Work Plans,Project Execution & Accounting,Interface (Valid POET values)
+201,Company Work Plans,Project Related Billing,Project Billing Conversion Strategy
+202,Procure Goods and Services,Accounts Payable & Invoicing,General Process Design - AP & Invoicing
+203,Company Work Plans,Project Initiation,Capital Project Header Conversion
+204,,Conversions,Balance Conversion
+205,Procure Goods and Services,Accounts Payable & Invoicing,Invoice Conversion Strategy
+206,Company Work Plans,Project Initiation,O&M Project Header Conversion
+207,,Conversions,Journal Details Conversion
+208,Company Work Plans,Project Execution & Accounting,Interface (Labor File)
+209,Company Work Plans,Project Initiation,Interface (DRM master data)
+210,Company Work Plans,Project Execution & Accounting,Interface (PP transactions outbound)
+211,Company Work Plans,Project Execution & Accounting,Interface (PP transactions inbound)
+212,Company Work Plans,Project Execution & Accounting,Interface (EPBCS)
+213,Company Work Plans,Project Initiation,Interface (PowerPlan WO creation)
+214,Company Work Plans,Project Initiation,Interface (Maximo WO to create Task)
+215,Company Work Plans,Project Closure,Interface (PP Close Status)
+216,Company Work Plans,Project Initiation,O&M Corporate Projects
+217,Company Work Plans,Project Execution & Accounting,Manual Project Journal Entries - Approval workflow and supporting documentation
+218,Company Work Plans,Project Initiation,General Process Design - Project Estimates
+219,Company Work Plans,Project Execution & Accounting,Interface (Inventory Transactions)
+220,Record Accounting Transactions,General Ledger Accounting,Foundation Organization Structure Design
+221,Record Accounting Transactions,General Ledger Accounting,Journal Attachment Process Design
+222,Record Accounting Transactions,General Ledger Accounting,Configure - - Foundation Organization Structure
+223,,Conversions,Configure - - Chart of Account
+224,,,Enterprise Process Alignment
+225,,,Define Management Reporting Needs
+226,Perform Strategic Planning,Budgeting - Workforce,Build & Unit Test WFP Input Forms
+227,,,HR Reporting Strategy - Workstream Governance
+228,,,STARS Integration Strategy
+229,,,Current State Time Process Assessment
+230,Project Execution & Accounting,Interface (Valid POET values),Time Processes for POET
+231,,,Current state payroll process assessment
+232,,,[R2] Pay Processes for POET
+233,Technology Enablement,DevOps - Foundational,Define and document the DevOps CI/Release approach for Oracle ERP Cloud
+234,,,[R2] Manage Departments & PeopleSoft Security
+235,Expense Reimbursements,General Process Design - Expenses,[R2] Identify Foundational Data Design for Shell
+236,,,[R2] Shell Application Security Strategy
+237,,,[R2] Manage Impacts to Legacy Applications
+238,,,"[R2] Integration, User, and Downstream Testing for SPC for PI5"
+239,,,"[R2] Integration, User, and Downstream Testing for SPC for PI4"
+240,,,"[R2] Integration, User, and Downstream Testing for SPC for PI 3"
+241,,,[R2] Design Daily Integration of Workforce Shell
+242,,,[R2] Prepare and Manage Deployment for SPC
+243,,,Define tuition reimbursement options
+244,,,Define CWR strategy owned by HR
+245,,,Conversion SPC
+246,Manage Supply Chain,Procure Materials and Services,SPC - Process and Pay Invoice
+247,Manage Supply Chain,Procure Materials and Services,SPC - Maintain Purchase Order
+248,Perform Work Management,Capital Projects,SPC - Initiate Capital Project Work
+249,,,Release 2 Quality Assurance - SIT1 Preparation
+250,Manage Supply Chain,Procure Materials and Services,SPC - Receive Materials Ordered
+251,Manage Supply Chain,Procure Materials and Services,SPC - Create Purchase Requisition
+252,,,SPC - Asset Life Cycle (LC) Management
+253,Perform Work Management,Capital Projects,SPC - Design Capital Project Work
+254,Perform Work Management,Capital Projects,SPC - Complete Capital Project Work
+255,Perform Work Management,Capital Projects,SPC - Execute Capital Project Work
+256,Perform Work Management,Capital Projects,SPC - Plan Capital Project Work
+257,,,SPC - Execute Corrective Maintenance Work
+258,,,Integration SPC
+259,Manage Supply Chain,Manage Vendors,SPC - Manage Vendor Strategy
+260,Manage Supply Chain,Manage Materials and Services,SPC - Perform Physical Count
+261,Manage Supply Chain,Manage Materials and Services,SPC - Process Material Returns
+262,Manage Supply Chain,Manage Materials and Services,SPC - Manage Inventory Levels and Movements
+263,Manage Supply Chain,Manage Materials and Services,SPC - Issue Materials
+264,Manage Supply Chain,Manage Item and Services Catalog,"SPC - Define Items, Services, and Categories"
+265,Manage Supply Chain,Procure Materials and Services,SPC - Create/Maintain Service Contract
+266,Manage Supply Chain,Procure Materials and Services,SPC - Create/Maintain Blanket Agreement
+267,Manage Supply Chain,Procure Materials and Services,SPC - Create Purchase Order
+268,Manage Supply Chain,Manage Vendors,Maximo Base Configuration
+269,Perform Work Management,Capital Projects,F - Design Capital Project Work
+270,Manage Cash and Treasury,Bank Reconciliations,Bank Statement Accounting (Electric / LINC)
+271,,,Data Validation and Reconciliation Readiness (Pi 3)
+272,Procure Goods and Services,Accounts Payable & Invoicing,Supplier Invoicing (SPC)
+273,,,Define Vision for Automation (PI 3)
+274,Technology Enablement,Program Testing - Release 1,Configure Jira for Test Management/Defect Management Reporting
+275,Procure Goods and Services,Accounts Payable & Invoicing,Supplier Management (SPC)
+276,Procure Goods and Services,Expense Reimbursements,Expense Report Processing (SPC)
+277,Procure Goods and Services,Accounts Payable & Invoicing,Invoice Approval Workflow (SPC)
+278,Procure Goods and Services,Manage Vendor Payments,Payment Processing (SPC)
+279,Procure Goods and Services,Accounts Payable & Invoicing,Payables Accounting & Close (SPC)
+280,Procure Goods and Services,Accounts Payable & Invoicing,Invoice & Expense Tax Processing (SPC)
+281,Procure Goods and Services,Expense Reimbursements,"Recovery, Reimbursement, TBR Expense Reporting (SPC)"
+282,Procure Goods and Services,Accounts Payable & Invoicing,Purchasing (SPC)
+283,Manage Billings,Miscellaneous Billings & Revenue,Manual Miscellaneous Billings & Revenue (SPC)
+284,Manage Billings,Customer Payments,Customer Payments (SPC)
+285,Perform Governance and Compliance,Controls Integration,CI - Controls design for Oracle Cloud Cash Management
+286,Manage Billings,Miscellaneous Billings & Revenue,Sub-Ledger Intercompany Billings (SPC)
+287,Manage Billings,Miscellaneous Billings & Revenue,Acuity Miscellaneous Billings & Revenue (SPC)
+288,Manage Billings,Miscellaneous Billings & Revenue,Miscellaneous Billing Test Plans / Cases (SPC)
+289,Manage Billings,Customer Payments,Customer Payments Test Plans / Cases (SPC)
+290,Manage Billings,Miscellaneous Billings & Revenue,Customer Management (SPC)
+291,Company Work Plans,Project Related Billing,Project Billings & Revenue (Foundational Design)
+292,Manage Billings,Miscellaneous Billings & Revenue,Sales & Use Tax Processing for Miscellaneous Billings (Foundational Design)
+293,Technology Enablement,DevOps - Foundational,Define and document the DevOps Test Automation approach on other pipelines
+294,,,HR Reporting - Employee Shell Build
+295,,,HR Reporting - Employee Shell Design
+296,,,HR Reporting Strategy - Data Warehouse
+297,Technology Enablement,DevOps - Continuous Integration,Steady state of Apigee Build pipeline (CI)
+298,,,HR Reporting Strategy - Regulatory Reporting
+299,,,HR Reporting Strategy - Employee Shell
+300,,,HR Reporting Strategy - In-App Reporting
+301,,,HR Reporting Strategy - Current State Analysis
+302,Procure Goods and Services,Expense Reimbursements,Employee Conversion R2 (Mock 1)
+303,,,Understand Talent Management Strategy
+304,,,Workforce History Conversion Strategy
+305,,,Autosys Job Creation
+306,,,PowerPlan Interfaces
+307,,,EPBCS Interfaces
+308,,,Maximo Interfaces
+309,,,Maximo Invoice Status (Hold Resolutions) Integrations
+310,,,Vertex Enterprise Integrations
+311,,,Extract for 1099 Integrations
+312,,,WO Creation Integrations
+313,,,Project Status Integrations
+314,,,POET Values Integrations
+315,,,Master Data Create Expenditure Types Integrations
+316,,,Master Data Integrations
+317,,,Roles and Entitlements Integrations
+318,,,Inbound Lockbox / Receipt file Integrations
+319,,,Bank Statement Files (BAI2) Integrations
+320,,,Payment files (ACH/WIRE) Integrations
+321,,,Payment files (Positive Pay) Integrations
+322,,,Credit Card Transaction (iExpense) Integrations
+323,,,Supplier Master Integrations
+324,,,AP Invoice Status/Holds Integrations
+325,,,Coa Validation Integrations
+326,,,Bank Statement Files BOA Integrations
+327,,,GL Actuals Integrations
+328,,,POET Value Validation Integrations
+329,,,Gl Cost Accounting Integrations
+330,,,AP Uncashed Checks Integrations
+331,,,Ap Reimbursements And Recovery Integrations
+332,,,AP Taxable Reimbursements Integrations
+333,,,AR Customers Integrations
+334,,,AP Invoice Integrations
+335,,,PO Receipts Integrations
+336,,,Purchase Orders Integrations
+337,,,MWO Tasks Integrations
+338,,,Labor Actuals and Expenditures Integrations
+339,,,Actuals Costs Integrations
+340,,,Payment Status/Acknowledgement Integrations
+341,,,Journal Approval Groups Integrations
+342,,,CoA Segments and Heirarchies Integrations
+343,,,Journals Integrations
+344,,,AR Invoice Integrations
+345,Company Work Plans,Project Execution & Accounting,Design an API for PP transactions inbound
+346,Company Work Plans,Project Execution & Accounting,Design an API for PP transactions outbound
+347,Company Work Plans,Project Execution & Accounting,Design an API for Reporting (OACS / OBIA)
+348,Company Work Plans,Project Execution & Accounting,Design an API to integrate Labor File
+349,,,[R2] GSI Integration Strategy
+350,,,Define Regulatory Reporting
+351,Execute Financial Processing,Master Data Governance (DRM),Design an API for Classic CoA Master Data Interfaces
+352,Company Work Plans,Project Closure,Inventory of Details and Components to be Integrated into OACS for Core Oracle Financials
+353,,,Alignment on the Enterprise Reporting Hierarchies: Assigment of hierarchies by solution
+354,Technology Enablement,DevOps - Foundational,Set up DevOps toolchain - Phase 1
+355,,,SPC Legacy support
+356,,,SPC Legacy alignment
+357,,,Mature Agile process
+358,,,Program Reporting
+359,Plan and manage customer service operations,Manage customer complaints,Manage shipment
+360,Plan and manage customer service operations,Manage customer complaints,Manage invoice
+361,Plan and manage customer service operations,Manage customer complaints,Approve complaint
+362,Plan and manage customer service operations,Manage customer complaints,Close complaint
+363,Plan and manage customer service operations,Manage customer complaints,Sales support
+364,Plan and manage customer service operations,Manage customer complaints,Complaint process control
+365,Plan and manage customer service operations,Manage customer complaints,Technical support
+366,Plan and manage customer service operations,Manage customer complaints,Manage customer credit
+367,Plan and manage customer service operations,Manage customer complaints,Create complaint
+368,Plan and manage customer service operations,Manage customer complaints,Enrich reference data
+369,Plan and manage customer service operations,Manage customer complaints,Financial control
+370,Plan and manage customer service operations,Manage customer complaints,Mobility
+371,Plan and manage customer service operations,Manage customer complaints,Manage account
+372,Plan and manage customer service operations,Manage customer complaints,Manage entitlement
+373,Plan and manage customer service operations,Manage customer complaints,Generate opportunity
+374,Plan and manage customer service operations,Manage customer complaints,Track updates
+375,Plan and manage customer service operations,Manage customer complaints,Manage complaint response
+376,Plan and manage customer service operations,Manage customer complaints,Knowledge management
+377,Plan and manage customer service operations,Manage customer complaints,Complaint print & export
+378,Plan and manage customer service operations,Manage customer complaints,Collaboration
+379,Plan and manage customer service operations,Manage customer complaints,View complaint
+380,Plan and manage customer service operations,Manage customer complaints,Quality control
+381,Plan and manage customer service operations,Manage customer service requests/inquiries,Manage shipment
+382,Plan and manage customer service operations,Manage customer service requests/inquiries,Create & open case
+383,Plan and manage customer service operations,Manage customer service requests/inquiries,Process control
+384,Plan and manage customer service operations,Manage customer service requests/inquiries,Case analysis
+385,Plan and manage customer service operations,Manage customer service requests/inquiries,Ensure client visibility
+386,Plan and manage customer service operations,Manage customer service requests/inquiries,Regulatory control
+387,Plan and manage customer service operations,Manage customer service requests/inquiries,Media control
+388,Plan and manage customer service operations,Manage customer service requests/inquiries,Security control
+389,Plan and manage customer service operations,Manage customer service requests/inquiries,Track update history
+390,Plan and manage customer service operations,Manage customer service requests/inquiries,Collaboration
+391,Plan and manage customer service operations,Manage customer service requests/inquiries,Close case
+392,Plan and manage customer service operations,Manage customer service requests/inquiries,Enhance customer satisfaction level
+393,Plan and manage customer service operations,Manage customer service requests/inquiries,View case
+394,Plan and manage customer service operations,Manage customer service requests/inquiries,Mobility
+395,Plan and manage customer service operations,Manage customer service requests/inquiries,Collect feedback & request through channels
+396,Plan and manage customer service operations,Manage customer service requests/inquiries,Manage plant
+397,Plan and manage customer service operations,Manage customer service requests/inquiries,Knowledge management
+398,Plan and manage customer service operations,Manage customer service requests/inquiries,Case print & export
+399,Plan and manage customer service operations,Manage customer service requests/inquiries,Search case
+400,Plan and manage customer service operations,Manage customer service requests/inquiries,Enrich reference data
+401,Plan and manage customer service operations,Manage customer service requests/inquiries,View related contacts
+402,Plan and manage customer service operations,Manage customer service requests/inquiries,Manage case task
+403,Plan and manage customer service operations,Manage customer service requests/inquiries,Validate case
+404,Plan and manage customer service operations,Manage customer service workforce,Manage performance
+405,Measure and evaluate customer satisfaction,Measure customer satisfaction level,Customer feedback
+406,Measure and evaluate customer satisfaction,Measure customer satisfaction level,View survey
